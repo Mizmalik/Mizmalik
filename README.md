@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Mizmalik/Mizmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Mizmalik, futur ingénieur en systèmes, réseaux et infrastructures cloud basé en France.  
+Je me passionne pour la conception et le déploiement de systèmes informatiques à grande échelle : datacenters, réseaux d’entreprise et cloud. ☁️💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets personnels
+- Simulation d’un **réseau de lycée avec pfSense** et plusieurs VLAN pour gérer différents utilisateurs.
+- Mise en place d’un **datacenter virtuel** sur Proxmox avec VMs pour différents services.
+- Diagrammes d’architecture **infra + cloud** sur draw.io.
+
+## 📌 Fun Facts
+- Je préfère le café ☕ que le thé (ou l’inverse, selon ton goût 😄)
+
+---
+
